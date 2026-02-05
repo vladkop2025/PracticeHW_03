@@ -1,4 +1,4 @@
-﻿//1. Базовый абстрактный класс 
+﻿// 1. Базовый абстрактный класс 
 public abstract class Account
 {
     public double Balance { get; set; }
